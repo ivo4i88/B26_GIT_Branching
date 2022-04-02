@@ -1,6 +1,6 @@
 package test_Case;
 
-public class tc002 {
+public class TC002 {
 
     // Test case 2
 
